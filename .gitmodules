@@ -1,0 +1,4 @@
+[submodule ".asdf"]
+	path = .asdf
+	url = https://github.com/asdf-vm/asdf.git
+	branch = v0.14.0
